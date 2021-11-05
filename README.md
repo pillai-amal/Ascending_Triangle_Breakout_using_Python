@@ -6,5 +6,6 @@ More Info: https://www.investopedia.com/terms/a/ascendingtriangle.asp
 This script checks for ascending triangle breakout, Plots the potential stocks are saves the list to a excel file.  
 
 An Example of a plotted stock is:
+
 ![alt text](https://github.com/pillai-amal/Ascending_Triangle_Breakout_using_Python/blob/main/ABB.png?raw=true "Logo Title Text 1")
 
