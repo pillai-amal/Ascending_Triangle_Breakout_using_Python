@@ -10,5 +10,5 @@ An Example of a plotted stock is:
 ![alt text](https://github.com/pillai-amal/Ascending_Triangle_Breakout_using_Python/blob/main/ABB.png?raw=true "Logo Title Text 1")
 
 ## Requirements:
-1. https://github.com/pillai-amal/NSE-timeseries-form-CSV-file-creator-and-SQL-appender-
-2. FinTA https://github.com/peerchemist/finta
+1. Databse for analysis, you can find my script here https://github.com/pillai-amal/NSE-timeseries-form-CSV-file-creator-and-SQL-appender-
+2. I'm using FinTA for technical indicators https://github.com/peerchemist/finta
